@@ -2,6 +2,30 @@
 
 > **Automated • Intelligent • Secure Certificate Authentication using AI, OCR & Machine Learning**
 
+## Home Page
+<img width="1862" height="893" alt="image" src="https://github.com/user-attachments/assets/e5a6c463-1338-415e-bc74-31ea38ca33bd" />
+
+## Demo Page
+<img width="1672" height="906" alt="image" src="https://github.com/user-attachments/assets/8e243e65-ea86-4b1d-bc4e-a91d1cdd70be" />
+
+## Login Page
+<img width="1856" height="841" alt="image" src="https://github.com/user-attachments/assets/72c97e81-3bb0-407d-bf53-bb0d33ad61b5" />
+
+## Sign-UP Page
+<img width="1900" height="862" alt="image" src="https://github.com/user-attachments/assets/f5b48e0d-48c6-4faa-863a-442914c0a9d8" />
+
+## Dashboard
+<img width="1323" height="865" alt="image" src="https://github.com/user-attachments/assets/c4b58755-176a-4d9b-8079-268777c3a836" />
+
+## Verification Workplace
+<img width="1267" height="905" alt="image" src="https://github.com/user-attachments/assets/e5425734-132b-4cd5-997d-f7c817a87d95" />
+
+## Result
+<img width="875" height="877" alt="image" src="https://github.com/user-attachments/assets/0537e82f-b24c-47dc-9ef5-4ce774ad467d" />
+
+## Report Generate
+<img width="1762" height="911" alt="image" src="https://github.com/user-attachments/assets/c01750d9-50f9-42dc-945f-afc05b2ca4e2" />
+
 ---
 
 ## 🚀 Overview
