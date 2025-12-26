@@ -1,0 +1,17 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyd
+
+# ML / AI
+*.pt
+*.pth
+*.onnx
+*.h5
